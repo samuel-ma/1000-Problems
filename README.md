@@ -2,12 +2,12 @@
 100 Algorithms a day for 100 days
 
 <ol>
-  <li>Problem 1
+  <li> ##Problem 1
     <ul>
       <li>Increment variables using a For Loop
     </ul>
   
-  <li>Problem 2
+  <li> ##Problem 2
     <ul>
       <li>Max of four numbers
     </ul>
