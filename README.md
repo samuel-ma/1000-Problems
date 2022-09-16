@@ -3,10 +3,14 @@
 
 <ol>
   <li>Problem 1
-  Increment variables using a For Loop
+    <ul>
+      <li>Increment variables using a For Loop
+    </ul>
   
   <li>Problem 2
-  Max of four numbers
+    <ul>
+      <li>Max of four numbers
+    </ul>
   
   <li>
   <li>
