@@ -25,18 +25,25 @@
 */
 
 #include <iostream>
-#include <string>
+#include <cstdio>
+#include <bits/stdc++.h>
 using namespace std;
 
-int sum_of_numbers() {
+/*
+Add `int max_of_four(int a, int b, int c, int d)` here.
+*/
 
-	int a, b, c, d;
-	cout << "Enter any four numbers: " << endl;
-	cin >> a >> b >> c >> d;
-	
-	
+
+int max_of_four(int _a, int _b, int _c, int _d){
+    int ar[]={_a,_b,_c,_d};
+    return *max_element(ar,ar+4);
+
 }
-
 int main() {
-	sum_of_numbers();
+    int a, b, c, d;
+    scanf("%d %d %d %d", &a, &b, &c, &d);
+    int ans = max_of_four(a, b, c, d);
+    printf("%d", ans);
+    
+    return 0;
 }
