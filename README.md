@@ -18,7 +18,7 @@
     </ul>
 
 
-  <li> <h2>Problem 3</h2>
+  <li> <h2>Problem 4</h2>
     <ul>
       <li>You can shuffle an array in C++ using the Shuffle() function
     </ul>
