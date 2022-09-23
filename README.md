@@ -17,8 +17,12 @@
       <li>Find the size of a vector using the size() function
     </ul>
 
+
+  <li> <h2>Problem 3</h2>
+    <ul>
+      <li>You can shuffle an array in C++ using the Shuffle() function
+    </ul>
   
-  <li>
   <li>
   <li>
   <li>
